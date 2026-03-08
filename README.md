@@ -1,6 +1,6 @@
 ## Hi, I'm Seoyoung Choi🤚 
 
-📧 **Contact me :** <a href="mailto:seoyoung8939@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+📧 **Contact me :** <a href="mailto:seoyoung8939@gmail.com"><img src="https://img.shields.io/badge/seoyoung8939@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/csyyysc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
@@ -18,6 +18,8 @@
 
 ## Etc
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 **csy030922/csy030922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
