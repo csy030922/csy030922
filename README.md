@@ -1,4 +1,4 @@
-## Hi, I'm Seoyoung Choi
+## Hi, I'm Seoyoung Choi🤚 
 
 📧 **Contact me :** <a href="mailto:seoyoung8939@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/csyyysc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
