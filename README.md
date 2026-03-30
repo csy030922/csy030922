@@ -8,6 +8,7 @@
 * **Kwangwoon University** Data Science (2023.03 ~ )
 * 🦁 **LikeLion** Kwangwoon Univ. 11th - Back-end Programming / Hackathon (2023.03 ~ 2023.12)
 * 📕 **CHIC** (Kwangwoon Academic Club) (2025.03 ~ Present)
+* ☁️ **AWS Cloud Clubs** Kwangwoon Univ. 4th (2026.03 ~ )
 
 
 ## Stacks
