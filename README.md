@@ -8,8 +8,9 @@
 * **Kwangwoon University** Data Science (2023.03 ~ )
 * 🦁 **LikeLion** Kwangwoon Univ. 11th - Back-end Programming / Hackathon (2023.03 ~ 2023.12)
 * 📕 **CHIC** (Kwangwoon Academic Club) (2025.03 ~ Present)
+* 📱 **Samsung Gen Z Lab. Campus Connect** - 사용자 온보딩 UX 개선 프로젝트 수행 (2023.07)
 * ☁️ **AWS Cloud Clubs** Kwangwoon Univ. 4th (2026.03 ~ )
-* 📱 **Samsung Gen Z Lab. Campus Connect** | 사용자 온보딩 UX 개선 프로젝트 수행 | 삼성전자 (2023.07)
+  
 
 
 ## Stacks
